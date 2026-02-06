@@ -1,0 +1,4 @@
+data/ filter=lfs diff=lfs merge=lfs -text
+PDNA/ filter=lfs diff=lfs merge=lfs -text
+PRNA/ filter=lfs diff=lfs merge=lfs -text
+PDNA1/ filter=lfs diff=lfs merge=lfs -text
